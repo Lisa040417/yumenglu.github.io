@@ -48,10 +48,8 @@ Yumeng Lu
 - *2023.11* Rianlon Scholarship, Tianjin University 
 
 # 🏅 Honor
-- *2025.12* Merit student, Tianjin University  
-- *2025.03* Outstanding student of Class 2026, Tianjin University 
-- *2024.12* Merit student, Tianjin University  
-- *2023.11* Merit student, Tianjin University  
+- Merit student at Tianjin University, 2023-2025  
+- Outstanding student of Class 2026 at Tianjin University, 2025 
 
 # 📖 Education
 <div class='paper-box'>
@@ -60,6 +58,8 @@ Yumeng Lu
     </div>    
     <div class='paper-box-text' style="flex: 0 0 85%; max-width: 85%;" markdown="1">
 
-- *2022.08 - 2026.07 (expected)*: Major: B.Eng. in Measurement & Control and Instruments at [SPIOE, Tianjin University](https://jyxy.tju.edu.cn/en/) 
-- *2023.11 - 2026.07 (expected)*: Minor: B.Eng. in Computer Science at [CIC, Tianjin University](https://cic.tju.edu.cn/english/home.htm)
+- **Major** 
+*2022.08 - 2026.07 (expected)*: B.Eng. in Measurement & Control and Instruments at [SPIOE, Tianjin University](https://jyxy.tju.edu.cn/en/) 
+- **Minor**
+*2023.11 - 2026.07 (expected)*: Minor: B.Eng. in Computer Science at [CIC, Tianjin University](https://cic.tju.edu.cn/english/home.htm)
 </div>
