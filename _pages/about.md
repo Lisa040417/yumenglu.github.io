@@ -55,8 +55,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2023.11* Merit student, Tianjin University  
 
 # 📖 Education
-<div class='paper-box'><div class='paper-box-image'></div><img src='images/TJU.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/TJU.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-- *2022.08 - 2026.07 (expected)*, B.E. in Tianjin University  
+- *2022.08 - 2026.07 (expected)*, B.E. in Measurement & Control Tianjin University  
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
