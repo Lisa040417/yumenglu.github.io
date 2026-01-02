@@ -41,9 +41,20 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 💵 Scholarships
+- *2025.12* Professor Guoxiong Zhang Scholarship 
+- *2025.01* Mitacs Globalink Research Intership
+- *2024.12* National Scholarship 
+- *2023.11* Rianlon Scholarship 
+
+# 🎖 Honors
+- Merit student, *2023, 2024, 2025*
+- Outstanding student of Class 2026, *2025* 
+
+
+- *2024.12* Merit student
+
+- *2023.11* Merit student
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
