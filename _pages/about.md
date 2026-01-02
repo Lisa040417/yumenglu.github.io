@@ -47,17 +47,12 @@ My research interest includes neural machine translation and computer vision. I 
 - *2024.12* National Scholarship 
 - *2023.11* Rianlon Scholarship 
 
-# 🎖 Honors
+# 🏅 Honors
 - Merit student, *2023, 2024, 2025*
 - Outstanding student of Class 2026, *2025* 
 
-
-- *2024.12* Merit student
-
-- *2023.11* Merit student
-
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.08 - 2026.07 (expected)*, School of Precision Instrument  
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
