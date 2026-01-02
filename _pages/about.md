@@ -18,7 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😃 About me
-I am currently a 4th year undergraduate at [School of Precision Instrument and Optoelectronics Engineering (SPIOE)](https://jyxy.tju.edu.cn/en/) , Tianjin University (TJU). Also I am conducting dual-degree program with the [College of Intelligence and Computing (CIC)](https://cic.tju.edu.cn/english/home.htm)
+I am currently a 4th year undergraduate at [School of Precision Instrument and Optoelectronics Engineering (SPIOE)](https://jyxy.tju.edu.cn/en/) , Tianjin University (TJU). Also I am conducting a dual-degree program with the [College of Intelligence and Computing (CIC)](https://cic.tju.edu.cn/english/home.htm). 
+
+I have some experiences in nano-fab, flexible electronics, FPGA. My research interests now lies in silicon photonics and integrated photonics. 
 
 
 # 🔥 News
@@ -60,15 +62,11 @@ I am currently a 4th year undergraduate at [School of Precision Instrument and O
 
 - **Major** 
 
-B.Eng. in Measurement & Control and Instruments
-
-*2022.08 - 2026.07 (expected)* 
+B.Eng. in Measurement & Control and Instruments, *2022.08 - 2026.07 (expected)*
 
 <span style="color: gray;">GPA: 3.88/4.00, Ranking: 8/131
 
 - **Minor**
 
-B.Eng. in Computer Science
-
-*2023.11 - 2026.07 (expected)* 
+B.Eng. in Computer Science, *2023.11 - 2026.07 (expected)*
 </div>
