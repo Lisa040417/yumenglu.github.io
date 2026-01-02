@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😃 About me
-I am currently a 4th year undergraduate at School of Precision Instrument and Optoelectronics Engineering (SPIOE), Tianjin University (TJU).  
+I am currently a 4th year undergraduate at [School of Precision Instrument and Optoelectronics Engineering (SPIOE)](https://jyxy.tju.edu.cn/en/) , Tianjin University (TJU). Also I am conducting dual-degree program with the [College of Intelligence and Computing (CIC)](https://cic.tju.edu.cn/english/home.htm)
 
 
 # 🔥 News
@@ -53,18 +53,22 @@ I am currently a 4th year undergraduate at School of Precision Instrument and Op
 
 # 📖 Education
 <div class='paper-box'>
-    <div class='paper-box-image' style="flex: 0 0 15%; max-width: 15%; min-width: 100px;">
+    <div class='paper-box-image' style="flex: 0 0 15%; max-width: 15%; min-width: 120px;">
         <div><img src='images/TJU.png' alt="sym" width="100%"></div>
     </div>    
     <div class='paper-box-text' style="flex: 0 0 85%; max-width: 85%;" markdown="1">
 
 - **Major** 
 
-*2022.08 - 2026.07 (expected)* &nbsp;B.Eng. in Measurement & Control and Instruments at [SPIOE, Tianjin University](https://jyxy.tju.edu.cn/en/) 
+B.Eng. in Measurement & Control and Instruments
 
-<span style="color: gray;">GPA: 3.88/4.00, Ranking: 8/131<\span> 
+*2022.08 - 2026.07 (expected)* 
+
+<span style="color: gray;">GPA: 3.88/4.00, Ranking: 8/131
 
 - **Minor**
 
-*2023.11 - 2026.07 (expected)* &nbsp;B.Eng. in Computer Science at [CIC, Tianjin University](https://cic.tju.edu.cn/english/home.htm)
+B.Eng. in Computer Science
+
+*2023.11 - 2026.07 (expected)* 
 </div>
