@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 🔥 About me
+# 😃 About me
 Yumeng Lu 
 
 
@@ -57,10 +57,9 @@ Yumeng Lu
 <div class='paper-box'>
     <div class='paper-box-image' style="flex: 0 0 15%; max-width: 15%; min-width: 100px;">
         <div><img src='images/TJU.png' alt="sym" width="100%"></div>
-    </div>
-    
+    </div>    
     <div class='paper-box-text' style="flex: 0 0 85%; max-width: 85%;" markdown="1">
 
-- *2022.08 - 2026.07 (expected)*, B.Eng. in Measurement & Control and Instruments at [SPIOE, Tianjin University](https://jyxy.tju.edu.cn/en/) 
-- *2023.11 - 2026.07 (expected)*, B.Eng. in Computer Science at [CIC, Tianjin University](https://cic.tju.edu.cn/english/home.htm)
+- *2022.08 - 2026.07 (expected)*: Major: B.Eng. in Measurement & Control and Instruments at [SPIOE, Tianjin University](https://jyxy.tju.edu.cn/en/) 
+- *2023.11 - 2026.07 (expected)*: Minor: B.Eng. in Computer Science at [CIC, Tianjin University](https://cic.tju.edu.cn/english/home.htm)
 </div>
