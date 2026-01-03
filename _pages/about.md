@@ -22,7 +22,7 @@ Hi, I am Yumeng Lu, currently a final-year undergraduate at [School of Precision
 
 I have some experiences in optical/photonics/flexible-electronics design and simulation, and now, my research interests lies in silicon photonics and integrated photonics. 
 
-If you are interested in my research or have any questions, please feel free to reach me out through [my email](mailto: lym4417@tju.edu.cn). Also you can connect with me to know more details via [LinkedIn](https://www.linkedin.com/in/yumeng-lu-1286ba348).  
+If you are interested in my research or have any questions, please feel free to reach me out through [my email](mailto: lym4417@tju.edu.cn). Also you can connect with me to know more details via [LinkedIn](https://www.linkedin.com/in/yumeng-lu-1286ba348) or WeChat (lym4417).  
 
 
 # 🔥 News
@@ -65,5 +65,12 @@ Ruijie Wu†, **<u>Yumeng Lu†</u>**, Ziyihui Wang, Bahetiguli Asilibieke, Jian
 
 - [C2] <a href="https://yumenglu417.github.io/files/PA111.pdf" target="_blank">High-sensitive biosensor for urea detection in urine via hydrogel whispering-gallery mode microresonators</a>
 
-<u>**Yumeng Lu†**</u>, Yaoxin Fu†, Bahetiguli Asilibieke, Ziyihui Wang, Junfeng Jiang, Tianhua Xu, Jing Wang, Tiegen Liu
+**<u>Yumeng Lu†</u>**, Yaoxin Fu†, Bahetiguli Asilibieke, Ziyihui Wang, Junfeng Jiang, Tianhua Xu, Jing Wang, Tiegen Liu
 
+# ☎️ Contact
+ 
+Tianjin University 
+
+92 Weijin Road, Nankai District 
+
+Tianjin, China 
