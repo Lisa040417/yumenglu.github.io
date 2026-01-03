@@ -43,6 +43,7 @@ B.Eng. in Measurement & Control Technology and Instruments, *2022.08 - 2026.07 (
 
 B.Eng. in Computer Science, *2023.11 - 2026.07 (expected)*
 </div>
+</div>
 
 # 💵 Scholarships
 - *2025.12* Professor Guoxiong Zhang Scholarship, School of Precision Instrument and Optoelectronics Engineering
