@@ -61,9 +61,9 @@ B.Eng. in Computer Science, *2023.11 - 2026.07 (expected)*
 
 - [C1] <a href="https://yumenglu417.github.io/files/PA112.pdf" target="_blank">Hydrogel whispering-gallery mode microresonators for toxic heavy metals analysis in Chinese herbals</a>
 
-Ruijie Wu†, <u>**Yumeng Lu†**<\u>, Ziyihui Wang, Bahetiguli Asilibieke, Jianying Jing, Kun Liu, Junfeng Jiang, Yu-Cheng Chen, Jing Wang, Tiegen Liu
+Ruijie Wu†, **<u>Yumeng Lu†</u>**, Ziyihui Wang, Bahetiguli Asilibieke, Jianying Jing, Kun Liu, Junfeng Jiang, Yu-Cheng Chen, Jing Wang, Tiegen Liu
 
 - [C2] <a href="https://yumenglu417.github.io/files/PA111.pdf" target="_blank">High-sensitive biosensor for urea detection in urine via hydrogel whispering-gallery mode microresonators</a>
 
-<u>**Yumeng Lu†**<\u>, Yaoxin Fu†, Bahetiguli Asilibieke, Ziyihui Wang, Junfeng Jiang, Tianhua Xu, Jing Wang, Tiegen Liu
+<u>**Yumeng Lu†**</u>, Yaoxin Fu†, Bahetiguli Asilibieke, Ziyihui Wang, Junfeng Jiang, Tianhua Xu, Jing Wang, Tiegen Liu
 
