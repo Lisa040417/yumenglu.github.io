@@ -62,7 +62,7 @@ B.Eng. in Computer Science, *2023.11 - 2026.07 (expected)*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPIE PA 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Hydrogel whispering-gallery mode microresonators for toxic heavy metals analysis in Chinese herbals]()
+[Hydrogel whispering-gallery mode microresonators for toxic heavy metals analysis in Chinese herbals](<a href="https://yumenglu417.github.io/files/PA112.pdf" target="_blank">查看 PDF 文档</a>)
 
 Ruijie Wu†, **Yumeng Lu†**, Ziyihui Wang, Bahetiguli Asilibieke, Jianying Jing, Kun Liu, Junfeng Jiang, Yu-Cheng Chen, Jing Wang, Tiegen Liu
 
